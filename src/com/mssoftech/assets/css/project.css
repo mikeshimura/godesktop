@@ -1,0 +1,121 @@
+.loginDialog {
+ width:400px  ;
+}
+.loginDialogHeader {
+    border-top-left-radius: 5px;        /* CSS3草案 */  
+    -webkit-border-top-left-radius: 5px;    /* Safari,Google Chrome用 */  
+    -moz-border-top-left-radius: 5px;   /* Firefox用 */  
+     border-top-right-radius: 5px;        /* CSS3草案 */  
+    -webkit-border-top-right-radius: 5px;    /* Safari,Google Chrome用 */  
+    -moz-border-top-right-radius: 5px;   /* Firefox用 */ 
+}
+.loginDialogFooter {
+    border-bottom-left-radius: 5px;        /* CSS3草案 */  
+    -webkit-border-bottom-left-radius: 5px;    /* Safari,Google Chrome用 */  
+    -moz-border-bottom-left-radius: 5px;   /* Firefox用 */  
+     border-bottom-right-radius: 5px;        /* CSS3草案 */  
+    -webkit-border-bottom-right-radius: 5px;    /* Safari,Google Chrome用 */  
+    -moz-border-bottom-right-radius: 5px;   /* Firefox用 */ 
+}
+#settingDialog {
+    padding:0px;
+ width:822px  !important;
+   border-top-left-radius: 5px;        /* CSS3草案 */  
+    -webkit-border-top-left-radius: 5px;    /* Safari,Google Chrome用 */  
+    -moz-border-top-left-radius: 5px;   /* Firefox用 */  
+     border-top-right-radius: 5px;        /* CSS3草案 */  
+    -webkit-border-top-right-radius: 5px;    /* Safari,Google Chrome用 */  
+    -moz-border-top-right-radius: 5px;   /* Firefox用 */
+}
+.settingDialog {
+ width:800px  !important;
+   border-top-left-radius: 5px;        /* CSS3草案 */  
+    -webkit-border-top-left-radius: 5px;    /* Safari,Google Chrome用 */  
+    -moz-border-top-left-radius: 5px;   /* Firefox用 */  
+     border-top-right-radius: 5px;        /* CSS3草案 */  
+    -webkit-border-top-right-radius: 5px;    /* Safari,Google Chrome用 */  
+    -moz-border-top-right-radius: 5px;   /* Firefox用 */
+}
+.settingDialogHeader {
+    width:800px  ;
+    border-top-left-radius: 5px;        /* CSS3草案 */  
+    -webkit-border-top-left-radius: 5px;    /* Safari,Google Chrome用 */  
+    -moz-border-top-left-radius: 5px;   /* Firefox用 */  
+     border-top-right-radius: 5px;        /* CSS3草案 */  
+    -webkit-border-top-right-radius: 5px;    /* Safari,Google Chrome用 */  
+    -moz-border-top-right-radius: 5px;   /* Firefox用 */ 
+}
+.settingDialogFooter {
+    width:800px  ;
+    border-bottom-left-radius: 5px;        /* CSS3草案 */  
+    -webkit-border-bottom-left-radius: 5px;    /* Safari,Google Chrome用 */  
+    -moz-border-bottom-left-radius: 5px;   /* Firefox用 */  
+     border-bottom-right-radius: 5px;        /* CSS3草案 */  
+    -webkit-border-bottom-right-radius: 5px;    /* Safari,Google Chrome用 */  
+    -moz-border-bottom-right-radius: 5px;   /* Firefox用 */ 
+}
+#jpsettingDialog {
+ padding:0px;   
+ width:782px  !important;
+   border-top-left-radius: 5px;        /* CSS3草案 */  
+    -webkit-border-top-left-radius: 5px;    /* Safari,Google Chrome用 */  
+    -moz-border-top-left-radius: 5px;   /* Firefox用 */  
+     border-top-right-radius: 5px;        /* CSS3草案 */  
+    -webkit-border-top-right-radius: 5px;    /* Safari,Google Chrome用 */  
+    -moz-border-top-right-radius: 5px;   /* Firefox用 */
+}
+.jpsettingDialog {
+ width:860px  !important;
+   border-top-left-radius: 5px;        /* CSS3草案 */  
+    -webkit-border-top-left-radius: 5px;    /* Safari,Google Chrome用 */  
+    -moz-border-top-left-radius: 5px;   /* Firefox用 */  
+     border-top-right-radius: 5px;        /* CSS3草案 */  
+    -webkit-border-top-right-radius: 5px;    /* Safari,Google Chrome用 */  
+    -moz-border-top-right-radius: 5px;   /* Firefox用 */
+}
+.jpsettingDialogHeader {
+    width:860px  ;
+    border-top-left-radius: 5px;        /* CSS3草案 */  
+    -webkit-border-top-left-radius: 5px;    /* Safari,Google Chrome用 */  
+    -moz-border-top-left-radius: 5px;   /* Firefox用 */  
+     border-top-right-radius: 5px;        /* CSS3草案 */  
+    -webkit-border-top-right-radius: 5px;    /* Safari,Google Chrome用 */  
+    -moz-border-top-right-radius: 5px;   /* Firefox用 */ 
+}
+.jpsettingDialogFooter {
+    width:860px  ;
+    border-bottom-left-radius: 5px;        /* CSS3草案 */  
+    -webkit-border-bottom-left-radius: 5px;    /* Safari,Google Chrome用 */  
+    -moz-border-bottom-left-radius: 5px;   /* Firefox用 */  
+     border-bottom-right-radius: 5px;        /* CSS3草案 */  
+    -webkit-border-bottom-right-radius: 5px;    /* Safari,Google Chrome用 */  
+    -moz-border-bottom-right-radius: 5px;   /* Firefox用 */ 
+}
+.settingHtml {
+width: 400px;
+height: 7em;
+line-height: 1.5em;
+}
+.stdCol {
+height: 22px !important;
+
+}
+.stdText {
+height: 24px !important;
+
+}
+.test {
+margin-top: -20px;
+
+}
+.stdTd {
+  padding: 0px  !important;
+  line-height: 1.0  !important;
+  vertical-align: middle  !important;
+  border-top: 1px solid #ddd;
+}
+.nav > li > a {
+  position: relative;
+  display: block;
+  padding: 3px 5px !important;
+}

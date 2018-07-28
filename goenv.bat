@@ -1,0 +1,1 @@
+set GOPATH=H:\a\test\wktest\seldemo

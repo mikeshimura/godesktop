@@ -1,0 +1,61 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "uvutHOxcwOHqLNLbHcTz5cI3fEA=",
+			"path": "github.com/PuerkitoBio/goquery",
+			"revision": "ea1bc64a63088ac2bbf1a2edcae38413794a7710",
+			"revisionTime": "2018-03-24T16:22:12Z"
+		},
+		{
+			"checksumSHA1": "Q/2QpI7E35SsNYfaxLsWHFry9k4=",
+			"path": "github.com/andybalholm/cascadia",
+			"revision": "901648c87902174f774fac311d7f176f8647bdaa",
+			"revisionTime": "2018-02-20T18:43:36Z"
+		},
+		{
+			"checksumSHA1": "3q4JKX5xsgQVKyMWw8FOM8ea+0U=",
+			"path": "github.com/go-errors/errors",
+			"revision": "a6af135bd4e28680facf08a3d206b454abc877a4",
+			"revisionTime": "2018-02-26T18:00:45Z"
+		},
+		{
+			"checksumSHA1": "KGCbKCdzptOup8ZOhhsOfbLmFCE=",
+			"path": "github.com/sclevine/agouti",
+			"revision": "6ada53bb069e86f8baf0953d4f0ddac081bc7610",
+			"revisionTime": "2018-03-06T16:56:25Z"
+		},
+		{
+			"checksumSHA1": "+q7C3P+pMvdqiks8BedYYoVA7K0=",
+			"path": "github.com/sclevine/agouti/api",
+			"revision": "6ada53bb069e86f8baf0953d4f0ddac081bc7610",
+			"revisionTime": "2018-03-06T16:56:25Z"
+		},
+		{
+			"checksumSHA1": "vvFROB58AjYKFZUqNUAEyZ7vkxM=",
+			"path": "github.com/sclevine/agouti/api/internal/bus",
+			"revision": "6ada53bb069e86f8baf0953d4f0ddac081bc7610",
+			"revisionTime": "2018-03-06T16:56:25Z"
+		},
+		{
+			"checksumSHA1": "tZpozcm5HLlpJaYg7aOuxQH2v4A=",
+			"path": "github.com/sclevine/agouti/api/internal/service",
+			"revision": "6ada53bb069e86f8baf0953d4f0ddac081bc7610",
+			"revisionTime": "2018-03-06T16:56:25Z"
+		},
+		{
+			"checksumSHA1": "Ac+sqfWJvIqAoFnDzZRH8HP/1gg=",
+			"path": "github.com/sclevine/agouti/internal/element",
+			"revision": "6ada53bb069e86f8baf0953d4f0ddac081bc7610",
+			"revisionTime": "2018-03-06T16:56:25Z"
+		},
+		{
+			"checksumSHA1": "rsdZ0GsD51gqfRPf3NFox3xw8eM=",
+			"path": "github.com/sclevine/agouti/internal/target",
+			"revision": "6ada53bb069e86f8baf0953d4f0ddac081bc7610",
+			"revisionTime": "2018-03-06T16:56:25Z"
+		}
+	],
+	"rootPath": "amazon"
+}
