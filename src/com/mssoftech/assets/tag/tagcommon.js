@@ -156,7 +156,7 @@ $c.ajaxPost = function (url, data, contenttype, callback) {
 		type: "POST",
 		url: url,
 		headers: {
-			'X-XSRF-TOKEN': token,
+
 		},
 		data: data,
 		contentType: contenttype
@@ -223,7 +223,7 @@ $c.ajaxPostSwal = function (url, data, contenttype, callback) {
 		type: "POST",
 		url: url,
 		headers: {
-			'X-XSRF-TOKEN': token,
+	
 		},
 		data: data,
 		contentType: contenttype

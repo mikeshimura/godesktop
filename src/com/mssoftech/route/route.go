@@ -15,6 +15,7 @@ func CommonRoute(m *web.Mux) {
 func RouteAPI() *web.Mux {
 	m := web.New()
 	m.Post("/api/quit", api.Quit)
+	m.Post("/api/test", api.Test)
 
 
 	return m

@@ -13,3 +13,10 @@ func Quit(c web.C, w http.ResponseWriter, r *http.Request) {
 	util.Pages[0].CloseWindow()
 	os.Exit(0)
 }
+func Test(c web.C, w http.ResponseWriter, r *http.Request) {
+	params := util.GetBodyJson(r)
+	in := params["in"].(string)
+	rmap := make(map[string]interface{})
+	rmap["msg"]=in+"が送られました。"
+	util.ReturnJson(w,rmap )
+}
