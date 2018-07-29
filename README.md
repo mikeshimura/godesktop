@@ -14,4 +14,4 @@ https://drive.google.com/drive/folders/10D6f1XQk6rzkhJudAojGY8LjQjqN3BfL?usp=sha
 
 This is go program, then you can run with MAC.
 
-Only Mac Version Chromedriver is additionally required.
+Only Mac Version of Chromedriver is additionally required.
