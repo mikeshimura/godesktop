@@ -17,6 +17,6 @@ func Test(c web.C, w http.ResponseWriter, r *http.Request) {
 	params := util.GetBodyJson(r)
 	in := params["in"].(string)
 	rmap := make(map[string]interface{})
-	rmap["msg"]=in+"が送られました。"
+	rmap["msg"]=in+" was setnt."
 	util.ReturnJson(w,rmap )
 }

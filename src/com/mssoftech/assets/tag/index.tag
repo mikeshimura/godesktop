@@ -17,7 +17,7 @@
 
         </div>
          <div class="row" style={"margin-top:20px;"}>
-            <button type="button" class="btn btn-primary" onclick={$w.app.testClick}    style={ "margin-left:60px;"}>テスト</button>
+            <button type="button" class="btn btn-primary" onclick={$w.app.testClick}    style={ "margin-left:60px;"}>TEST</button>
 			<input type="text" style={ "width:100px;margin-left:20px;"} name="test" value={$ws.test} onchange={$c.onChange}>
 
           </div>
